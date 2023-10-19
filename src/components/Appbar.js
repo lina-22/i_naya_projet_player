@@ -22,7 +22,7 @@ export default function Appbar() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            Gestion des joueurs d'un club sportif
+            "Gestion des joueurs d'un club sportif"
           </Typography>
           <Button color="inherit">Login</Button>
         </Toolbar>
